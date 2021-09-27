@@ -7,3 +7,4 @@ output*.txt
 *.ipynb_checkpoints*
 *.swp
 *.png
+.vscode/settings.json
